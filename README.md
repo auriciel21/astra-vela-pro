@@ -4,7 +4,7 @@ La navigation astronomique et l'estime, réunies dans un seul logiciel.
 
 Astra Vela Pro calcule vos éphémérides, réduit vos observations au sextant en droites de lieu, trace votre route et gère votre marée — entièrement hors ligne, sur votre ordinateur. Un outil d'aide au calcul moderne pour qui pratique encore le point astronomique.
 
-⚠️ Outil d'aide au calcul et à l'entraînement à la navigation astronomique — non certifié pour la navigation réglementaire. Version 0.1.0 : logiciel jeune, susceptible de contenir des erreurs de jeunesse. Ne remplace pas les publications officielles ni les moyens de navigation réglementaires.
+⚠️ Outil d'aide au calcul et à l'entraînement à la navigation astronomique — non certifié pour la navigation réglementaire. Version 0.3.0 : logiciel jeune, susceptible de contenir des erreurs de jeunesse. Ne remplace pas les publications officielles ni les moyens de navigation réglementaires.
 
 Téléchargement
 
