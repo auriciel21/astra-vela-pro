@@ -8,7 +8,7 @@ Astra Vela Pro calcule vos éphémérides, réduit vos observations au sextant e
 
 Téléchargement
 
-👉 Télécharger la dernière version (gratuit, Windows & Linux)
+👉 Télécharger la dernière version (gratuit, Windows, Linux et Android)
 
 Les deux éditions sont distribuées gratuitement, sans limite de durée ni de fonctions, sans création de compte.
 
@@ -17,6 +17,7 @@ Windows 10 / 11	.exe (installeur)	108 Mo	115 Mo
 Linux (toutes distributions)	.AppImage (portable)	117 Mo	124 Mo
 Linux (Debian / Ubuntu…)	.deb	109 Mo	113 Mo
 Linux (Fedora / openSUSE…)	.rpm (non testé par l'auteur)	114 Mo	119 Mo
+Android >7 .apk 124 Mo 117 Mo
 Standard vs Pro
 Fonction	Standard	Pro
 Éphémérides (Soleil / Lune / planètes / étoiles)	✓	✓
